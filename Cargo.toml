@@ -12,7 +12,7 @@ keywords = ["flow-based", "gui", "wasm"]
 categories = ["science", "visualization"]
 
 [dependencies]
-egui = "0.30.0"
+egui = "0.31.1"
 eframe = { version = "0.30.0", default-features = false, features = [
     # "accesskit",     # Make egui compatible with screen readers. NOTE: adds a lot of dependencies.
     "default_fonts", # Embed the default egui fonts.
