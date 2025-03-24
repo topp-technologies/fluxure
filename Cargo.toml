@@ -21,7 +21,7 @@ eframe = { version = "0.30.0", default-features = false, features = [
     "x11",           # To support older Linux
     "wayland",       # To support Linux (and CI)
 ] }
-log = "0.4.25"
+log = "0.4.27"
 serde = { version = "1.0.217", features = ["derive"] }
 
 # native:
