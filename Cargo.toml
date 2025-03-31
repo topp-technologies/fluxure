@@ -34,7 +34,7 @@ wasm-bindgen-futures = "0.4.50"
 web-sys = "0.3.77"              # to access the DOM (to hide the loading text)
 
 # for -Zminimal-versions (track dependencies with `cargo tree -i <crate>`)
-image = "0.25.1"
+image = "0.25.6"
 profiling = "1.0.16"
 
 [profile.release]
